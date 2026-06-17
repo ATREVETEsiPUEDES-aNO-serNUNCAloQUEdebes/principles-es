@@ -7,22 +7,22 @@ title: $:/plugins/linonetwo/principles/language/zh-Hans/Readme
 
 <<lingo Description>>
 
-这个插件让你可以以大纲的形式记录你的人生原则，并通过间隔重复技术将它们像思想钢印一样铭刻在你的大脑中，从而能对自己编程，从错误中学习，不断进步。
+Este complemento le permite registrar los principios de su vida en forma de un esquema y grabarlos en su cerebro como un sello mental a traves de tecnologia de repeticion espaciada, para que pueda programarse, aprender de sus errores y mejorar continuamente.。
 
-[ext[原则|https://www.principles.com]]这本书是树形结构组织的，而且我希望每条原则都可以从你的日记或其它笔记条目中链接过来，通过[[Tidme插件|$:/plugins/tidme/fsrs4tw]]间隔重复，所以本插件中整合了[[Streams插件|$:/plugins/linonetwo/streams-outliner-lib]]来进行原则的大纲输入。
+[ext[Principios|https://www.principles.com]]El libro esta organizado en una estructura de arbol y espero que cada principio pueda vincularse desde su diario u otra entrada de notas, a traves de[[TidmeComplementos|$:/plugins/tidme/fsrs4tw]]Repeticion espaciada, por lo que este complemento se integra[[StreamsComplementos|$:/plugins/linonetwo/streams-outliner-lib]]Para entrar en el esquema de principios。
 
-!! 使用方法
+!! Como utilizar
 
-!!! 录入
+!!! Entrada
 
-<<open-principles-layout-button>>，你会看到一个由[[Streams插件|$:/plugins/linonetwo/streams-outliner-lib]]提供的大纲UI。
+<<open-principles-layout-button>>，Veras un[[StreamsComplementos|$:/plugins/linonetwo/streams-outliner-lib]]Esquema proporcionadoUI。
 
-你可以阅读[ext[原则|https://www.principles.com]]以获得一些灵感，然后在大纲中输入你自己的原则。不要直接从书中复制所有原则黏贴过来，因为只有你相信的原则才会起作用。也不用急着一次性输入所有原则，这个插件就是为了方便你用碎片时间随时录入的。
+Puedes leer[ext[Principios|https://www.principles.com]]Inspirate e introduce tus propios principios en el esquema. No se limite a copiar y pegar todos los principios del libro, porque solo funcionaran los principios en los que crea. No hay necesidad de apresurarse a introducir todos los principios a la vez. Este complemento es solo para su comodidad. Puedes ingresarlos en cualquier momento en tu tiempo libre.。
 
-输入完成后，你可以使用左上角的 <<back-to-standard-layout-button>> 按钮来返回标准布局。
+Una vez completada la entrada, puede utilizar el <<back-to-standard-layout-button>> Boton para volver al diseno estandar。
 
-!!! 回顾
+!!! Revision
 
-在记录了大量自己的原则后，点击侧边栏顶部的页面工具栏上的「墨鱼插件」按钮 {{$:/plugins/tidme/fsrs4tw/home}} ，可以打开间隔重复复习工具。
+Despues de haber registrado una gran cantidad de sus principios, haga clic en la barra de herramientas de la pagina en la parte superior de la barra lateral.「Complemento de sepia」Boton {{$:/plugins/tidme/fsrs4tw/home}} ，Puede abrir la herramienta de revision de repeticiones espaciadas.。
 
-选择「<<lingo Deck/Name $:/plugins/linonetwo/principles/language/>>」牌组旁边的播放按钮{{$:/plugins/tidme/fsrs4tw/icons/start}}，开始根据科学的时间安排，回顾你的原则，让它们深入脑海。回顾时你可以直接编辑修改原则，从而不断完善它们，知行合一。
+Seleccionar「<<lingo Deck/Name $:/plugins/linonetwo/principles/language/>>」Boton de reproduccion al lado del deck.{{$:/plugins/tidme/fsrs4tw/icons/start}}，Empiece a revisar sus principios segun el calendario cientifico y dejelos penetrar en su mente. Al revisar, puede editar y modificar directamente los principios para mejorarlos continuamente e integrar conocimiento y accion.。
